@@ -1,5 +1,5 @@
 use solana_client::rpc_client::RpcClient;
-use stream_pay_core as core;
+use stream-pay-core as core;
 use solana_program::pubkey::Pubkey;
 
 use solana_sdk::signature::Signer;

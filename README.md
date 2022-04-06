@@ -8,7 +8,7 @@ Install tools
 ```
 cargo install solana-keygen
 ```
-https://docs.solana.com/cli/install-solana-cli-tools
+https://docs.solana.com/cli/installsh 
 
 Generate a new keypair for testing (`testnet_key.json` is listed in `.gitignore`):
 

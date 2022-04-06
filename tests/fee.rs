@@ -1,4 +1,4 @@
-use stream_pay_core as core;
+use stream-pay-core as core;
 
 use solana_sdk::signature::Signer;
 use solana_sdk::signer::keypair::Keypair;

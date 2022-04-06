@@ -1,5 +1,5 @@
 [package]
-name = "stream_pay_core"
+name = "stream-pay-core"
 version = "0.1.0"
 authors = ["StreamDAO <https://streamdao.org>"
 edition = "2022"
@@ -8,7 +8,7 @@ repository = "https://github.com/streamdao/stream-pay-core"
 readme = "README.md"
 homepage = "https://streamdao.org"
 keywords = ["solana"]
-license = "MIT OR Apache-2.0"
+license = "Apache-2.0"
 
 [dependencies]
 # Any version > 1.9.5 (currently unreleased) should compile on Android/iOS targets.
